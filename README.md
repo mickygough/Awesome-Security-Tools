@@ -17,6 +17,8 @@ Repo:	https://github.com/objective-see/DoNotDisturb
 See DoNotDisturb under "Intrusion detection"
 
 # Development  #
+Tool:	List of PHP static code analysis tools, by exacat
+Repo:	https://github.com/exakat/php-static-analysis-tools
 
 
 # Offence #
