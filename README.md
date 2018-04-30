@@ -23,6 +23,11 @@ Repo:	https://github.com/exakat/php-static-analysis-tools
 
 # Offence #
 
+## OSINT
+Tool:	OSINT Toolkit  
+URL:	https://osinttoolkit.github.io  
+Repo:	https://github.com/OSINTToolkit/OSINTToolkit.github.io  
+
 ## Physical attacks ##
 Tool:	EvilAbigail - Automated Linux "evil maid" attack by @GDSSecurity  
 Repo:	https://github.com/GDSSecurity/EvilAbigail  
