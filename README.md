@@ -20,6 +20,10 @@ See DoNotDisturb under "Intrusion detection"
 Tool:	List of PHP static code analysis tools, by exacat  
 Repo:	https://github.com/exakat/php-static-analysis-tools  
 
+# Security Awareness Education
+Tool:	Stop. Think. Connect. Toolkit - material for a wide range of audiences by US DHS  
+URL:	https://www.dhs.gov/stopthinkconnect-toolkit  
+
 
 # Offence
 
