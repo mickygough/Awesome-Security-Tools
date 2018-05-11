@@ -24,6 +24,12 @@ Repo:	https://github.com/exakat/php-static-analysis-tools
 Tool:	Stop. Think. Connect. Toolkit - material for a wide range of audiences by US DHS  
 URL:	https://www.dhs.gov/stopthinkconnect-toolkit  
 
+# Training
+
+## Cryptography
+Tool:	Deadpool - Repository of various public white-box cryptographic implementations and their practical attacks.  
+Repo:	https://github.com/SideChannelMarvels/Deadpool  
+
 
 # Offence
 
