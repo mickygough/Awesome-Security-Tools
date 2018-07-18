@@ -7,6 +7,8 @@ A list of awesome security tools
 Tool:	freq - tool to detect DGA hostnames used by malware  
 Repo:	https://github.com/MarkBaggett/freq  
 
+Tool:	streamingphish - uses supervised machine learning to detect phishing domains from the certificate transparency log  
+Repo:	https://github.com/wesleyraptor/streamingphish  
 
 ## Intrusion detection
 Tool:	DoNotDisturb - Notifies on "evil maid" physical attacks, by Objective-See  
@@ -15,6 +17,11 @@ Repo:	https://github.com/objective-see/DoNotDisturb
 
 ## Physical attacks
 See DoNotDisturb under "Intrusion detection"
+
+## Reputation/Blacklist lookups
+Tool:	GreyNoise Visualizer - online IP reputation lookup  
+URL:	https://viz.greynoise.io/ip  
+
 
 # Development
 Tool:	List of PHP static code analysis tools, by exacat  
@@ -61,5 +68,11 @@ Tool:	HORSEPILL - PoC Linux initrd infector that containerises the OS, by Michae
 URL:	http://www.pill.horse/  
 Repo:	https://github.com/r00tkillah/HORSEPILL  
 Ref:	https://www.blackhat.com/docs/us-16/materials/us-16-Leibowitz-Horse-Pill-A-New-Type-Of-Linux-Rootkit.pdf  
+
+
+# Information Resources
+
+## Phishing
+Site:	https://apwg.org - Anti Phishing Working Group, lots of anti phishing information and resources  
 
 
