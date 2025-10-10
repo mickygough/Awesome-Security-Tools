@@ -62,6 +62,10 @@ Tool:   OSINT Toolkit - collection of tools for searching public data stores/soc
 URL:    https://osinttoolkit.github.io  
 Repo:   https://github.com/OSINTToolkit/OSINTToolkit.github.io  
 
+Tool:   Shodan
+URL:    https://www.shodan.io/dashboard
+Ref:    https://help.shodan.io/
+
 ## Rootkits
 
 Tool:	HORSEPILL - PoC Linux initrd infector that containerises the OS, by Michael Leibowitz (@r00tkillah)  
@@ -75,4 +79,9 @@ Ref:	https://www.blackhat.com/docs/us-16/materials/us-16-Leibowitz-Horse-Pill-A-
 ## Phishing
 Site:	https://apwg.org - Anti Phishing Working Group, lots of anti phishing information and resources  
 
+## Sourcing Malware for RE investigation and practice
+Site: https://bazaar.abuse.ch - Malware Bazaar by SpamHaus. Search by hash or tag
 
+Site: https://app.any.run - Malware Sandbox, use the "Reports" area to find malware by hash or tag
+
+Site: https://vx-underground.org/Samples - Malware samples provided by vx-underground
