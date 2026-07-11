@@ -62,6 +62,10 @@ Tool:   OSINT Toolkit - collection of tools for searching public data stores/soc
 URL:    https://osinttoolkit.github.io  
 Repo:   https://github.com/OSINTToolkit/OSINTToolkit.github.io  
 
+Tool:   OSINTPRO - passive OSINT workspace for domain, username, repository and wallet evidence graphs  
+URL:    https://osintpro-48j4.onrender.com  
+Repo:   https://github.com/haizen1312/osintpro  
+
 Tool:   Shodan
 URL:    https://www.shodan.io/dashboard
 Ref:    https://help.shodan.io/
